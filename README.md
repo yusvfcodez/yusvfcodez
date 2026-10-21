@@ -15,7 +15,7 @@ CS student, class of 2028. Interested in backend data systems and algorithms. I 
 
 **Tech Stack**
 
-`Python` · `SQL` · `PostgreSQL` · `Git` · `Linux`
+`Python` · `SQL` · `PostgreSQL` · `Pandas` · `FastAPI` · `pytest` · `Docker`  `Git` · `Linux` 
 
 **Start Here**
 
